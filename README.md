@@ -6,7 +6,7 @@ Cyberattacks are growing in frequency and sophistication, putting organizations 
 
 There is a need for an automated, continuous, and realistic way to test and validate security defenses.
 
-This tool simulates real-world cyberattacks, generates synthetic security logs mapped to the MITRE ATT&CK framework, and leverages AI for anomaly detection and incident narrative generation. It enables security teams, students, and researchers to proactively identify gaps in their defenses—all without risking real systems or sensitive data.
+This tool (SKYNET) simulates real-world cyberattacks, generates synthetic security logs mapped to the MITRE ATT&CK framework, and leverages AI for anomaly detection and incident narrative generation. It enables security teams, students, and researchers to proactively identify gaps in their defenses—all without risking real systems or sensitive data.
 
 ---
 
