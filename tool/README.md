@@ -56,6 +56,7 @@ streamlit run app.py
 ![module ss](image-4.png)  
 ![module ss](image-5.png)
 
+*The images are present in the source code folder under the image section*
 ---
 
 ## Python File Overview
